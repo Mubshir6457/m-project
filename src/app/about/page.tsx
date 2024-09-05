@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 const page = () => {
   return (
-    <div><figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
+    <div><figure className="md:flex bg-yellow-200 rounded-xl p-8 md:p-0 dark:bg-slate-800">
     <Image className="w-250 h-243 md:w-20 md:h-auto md:rounded-none rounded-full mx-auto" src="/my-pic.jpg" alt="" width="384" height="512"/>
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
