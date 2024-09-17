@@ -3,7 +3,7 @@ import Link from 'next/link'
 const Header = () => {
   return (
 
-    <div className='flex gap-3 p-6 bg-green-400'>
+    <div className='flex gap-3 p-6 bg-yellow-200'>
       <Link href="/">home page</Link>
       <Link href="/about">about page</Link>
       <Link href="/address">adress page</Link>
